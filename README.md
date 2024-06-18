@@ -44,11 +44,11 @@ The application has been deployed to Render and the URL of the deployed applicat
    Used as a text editor which has progressive web app features such as being a native-like app and has data persistence techniques to retrieve content when being revisted even in offline mode.
 
    ## ScreenShot
-   The following displays a snapshot of my NoSQL Social Network Application:
+   The following displays a snapshot of my Pro PWA Text Editor App:
 
-![Snapshot of my "NoSQL Social Network Application".](./Assets/Demo.png?raw=true>)
+![Snapshot of my "Pro PWA Text Editor App".](./Assets/Demo.png?raw=true>)
 
-![Snapshot of my "NoSQL Social Network Application".](./Assets/ServiceWorker.png?raw=true>)
+![Snapshot of my "Pro PWA Text Editor App".](./Assets/ServiceWorker.png?raw=true>)
 
   ## License
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
