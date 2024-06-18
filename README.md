@@ -58,7 +58,7 @@ The application has been deployed to Render and the URL of the deployed applicat
   Contributions are not accepted at the moment
 
   ## Test
-  The following link will take you to my Cool PWA Text Editor: <br>
+  The following link will take you to my Pro PWA Text Editor: <br>
  <a href="https://www.loom.com/share/e0ab8766f8314f2bb9440329df139ec5">Visit CoolPWATextEditor!</a>
 
   ## Questions
