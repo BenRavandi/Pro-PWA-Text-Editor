@@ -7,7 +7,7 @@
   
 
 The application has been deployed to Render and the URL of the deployed application is:
- "https://www.loom.com/share/e0ab8766f8314f2bb9440329df139ec5"
+ "https://pro-pwa-text-editor-13.onrender.com/"
 
   
   ## Table of Contents
@@ -59,7 +59,7 @@ The application has been deployed to Render and the URL of the deployed applicat
 
   ## Test
   The following link will take you to my Pro PWA Text Editor: <br>
- <a href="https://www.loom.com/share/e0ab8766f8314f2bb9440329df139ec5">Visit ProPWATextEditor!</a>
+ <a href="https://pro-pwa-text-editor-13.onrender.com/">Visit ProPWATextEditor!</a>
 
   ## Questions
   - GitHub: [BenRavandi](https://github.com/BenRavandi)
